@@ -1,2 +1,2 @@
-# RetinopatiaDiabetica
-Visión por Computador para la identificación de la retinopatía diabética
+# Diabetic Retinopathy
+Computer Vision for the detection of the Diabetic Retinopathy
